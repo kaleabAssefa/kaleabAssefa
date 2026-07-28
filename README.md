@@ -95,8 +95,8 @@ REST APIs      ██████████████████
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Add Your LinkedIn URL
-- 📧 Email: Add Your Email
+- 💼 LinkedIn: https://www.linkedin.com/in/kaleab-assefa/
+- 📧 Email: kaleabassefa11@gmail.com
 
 ---
 
